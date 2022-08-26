@@ -1,3 +1,8 @@
+# Raul's First CS193 Homework
+- CS193 seems to highlight important tools in computer science/software engineering
+- Led by TA's 
+- 1 credit hour
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
